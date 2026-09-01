@@ -1,1 +1,1 @@
-main: system optimization enabled
+system optimization enabled with performance tuning active
